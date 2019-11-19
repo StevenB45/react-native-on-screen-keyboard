@@ -33,10 +33,10 @@
   ],
   [
     {
-      "text": "q"
+      "text": "a"
     },
     {
-      "text": "w"
+      "text": "z"
     },
     {
       "text": "e"
@@ -65,7 +65,7 @@
   ],
   [
     {
-      "text": "a"
+      "text": "q"
     },
     {
       "text": "s"
@@ -92,7 +92,7 @@
       "text": "l"
     },
     {
-      "text": "-"
+      "text": "m"
     }
   ],
   [
@@ -102,7 +102,7 @@
       "width": 2
     },
     {
-      "text": "z"
+      "text": "w"
     },
     {
       "text": "x"
@@ -120,7 +120,7 @@
       "text": "n"
     },
     {
-      "text": "m"
+      "text": "-"
     },
     {
       "text": "_"
@@ -132,11 +132,11 @@
       "width": 3
     },
     {
-      "text": "@yahoo.com",
+      "text": "@outlook.fr",
       "width": 3
     },
     {
-      "text": "@hotmail.com",
+      "text": "@hotmail.fr",
       "width": 4
     }
   ],
@@ -230,7 +230,7 @@
   ],
   [
     {
-      "text": ".ca",
+      "text": ".fr",
       "width": 2
     },
     {
@@ -238,15 +238,15 @@
       "width": 2
     },
     {
-      "text": ".edu",
-      "width": 2
-    },
-    {
       "text": ".org",
       "width": 2
     },
     {
-      "text": ".gov",
+      "text": ".eu",
+      "width": 2
+    },
+    {
+      "text": ".gouv",
       "width": 2
     }
   ],
